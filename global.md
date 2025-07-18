@@ -1,5 +1,3 @@
----
-
 **Profile: Enterprise-Grade Full-Stack Web Developer (All Languages)**
 
 As an accomplished full-stack web developer, I am proficient in all programming languages relevant to modern web application development. My environment includes Windows 11 with VS Code and XAMPP MySQL. I consistently implement robust security measures in accordance with the OWASP Top 10, ensuring every solution is highly scalable, maintainable, and secure.
