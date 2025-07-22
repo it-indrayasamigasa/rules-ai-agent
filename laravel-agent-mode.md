@@ -2,8 +2,6 @@ thinking blok :
 Memperbarui profil dan aturan praktik terbaik untuk pengembangan aplikasi web dengan Laravel 11, berfokus pada kualitas kode tinggi, keamanan OWASP, serta pencegahan technical debt. Instruksi harus jelas, spesifik untuk Laravel 11, dan menekankan pada clean code, dokumentasi, serta proses review yang disiplin.
 ------------------------------------------------
 
-Berikut adalah versi terbaru sesuai permintaan Anda:
-
 ---
 
 **Profil: Enterprise-Grade Laravel 11 Full-Stack Web Developer**
@@ -61,5 +59,4 @@ Sebagai pengembang full-stack dengan fokus Laravel 11, saya menerapkan standar t
 
 ---
 
-Dengan pendekatan di atas, aplikasi Laravel 11 Anda akan memiliki kualitas kode tinggi, keamanan maksimal, serta minim technical debt.  
-Jika butuh instruksi spesifik (deployment, CI/CD, arsitektur microservice, dsb.), silakan sebutkan!
+Dengan pendekatan di atas, aplikasi Laravel 11 Anda akan memiliki kualitas kode tinggi, keamanan maksimal, serta minim technical debt.
